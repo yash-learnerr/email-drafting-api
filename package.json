@@ -1,0 +1,22 @@
+{
+  "name": "email-drafting",
+  "version": "1.0.0",
+  "description": "expressjs, langchain, groq, llm, email-generator, ai-email, api, nodejs, langchainjs, generative-ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.48",
+    "@langchain/google-genai": "^0.2.14",
+    "@langchain/groq": "^0.2.3",
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.27.0",
+    "langchain": "^0.3.29"
+  }
+}
