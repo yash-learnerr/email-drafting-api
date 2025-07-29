@@ -103,9 +103,8 @@ curl -X POST http://localhost:5000/generate-email \
 
 ## Video Tutorial
 
-```
 [Example Link](https://jam.dev/c/d9373ce0-7e41-49b9-aad8-4eec67566c66)
-```
+
 
 ## 📄 License
 
