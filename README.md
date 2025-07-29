@@ -101,6 +101,12 @@ curl -X POST http://localhost:5000/generate-email \
   -d '{"summary": "Follow up with HR about the onboarding documents."}'
 ```
 
+## Video Tutorial
+
+```
+[Example Link](https://jam.dev/c/d9373ce0-7e41-49b9-aad8-4eec67566c66)
+```
+
 ## 📄 License
 
 MIT License — free to use, modify, and share.
